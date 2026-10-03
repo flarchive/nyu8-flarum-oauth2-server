@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of nyu8/flarum-oauth2-server.** Not for installation: use [Packagist](https://packagist.org/packages/nyu8/flarum-oauth2-server) or the [upstream repository](https://github.com/nyu8/flarum-oauth2-server).
 
-**0** versions archived · Latest: [`1.0.0`](https://github.com/flarchive/nyu8-flarum-oauth2-server/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.0`
+**1** versions archived · Latest: [`1.0.0`](https://github.com/flarchive/nyu8-flarum-oauth2-server/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2021-06-09 | `^1.0` | [Browse](https://github.com/flarchive/nyu8-flarum-oauth2-server/tree/archive/v1.0.0) |
 
 Catalog entry: [packages/nyu8-flarum-oauth2-server.json](https://github.com/flarchive/archive-index/blob/main/packages/nyu8-flarum-oauth2-server.json)
 
